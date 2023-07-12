@@ -5,7 +5,7 @@ int a[MAX],pos,elem;
 int n=0;
 void create();
 void display();
-void insert();
+void insert();//hidfogjdfignfngdxofmdxofmdxofl
 void delete();
 void main()
 {
